@@ -1,0 +1,24 @@
+{
+  "name": "stock-market",
+  "version": "1.0.0",
+  "description": "LHL Day 5 Stock Market Exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeanSFitz/stock-market.git"
+  },
+  "author": "Sean Fitzpatrick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SeanSFitz/stock-market/issues"
+  },
+  "homepage": "https://github.com/SeanSFitz/stock-market#readme",
+  "devDependencies": {
+    "chai": "^4.0.1",
+    "mocha": "^3.4.2"
+  }
+}
